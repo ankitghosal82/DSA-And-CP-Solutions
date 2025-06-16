@@ -34,7 +34,7 @@ This is the work of 2+ years of coding, practice, and growth 🚀
 | Problem ID | Title                                    | Difficulty | Link                        |
 |------------|-------------------------------------------|------------|-----------------------------|
 | 1          | [Two Sum](twosum.cpp)              | Easy       | [🔗 LeetCode](https://leetcode.com/problems/two-sum/)         |
-| 2        | [Valid Parentheses](validparentheses.cpp) | Easy   | [🔗 LeetCode](https://leetcode.com/problems/valid-parentheses/) |
+| 2        | [Valid Parentheses](validparenthesis.cpp) | Easy   | [🔗 LeetCode](https://leetcode.com/problems/valid-parentheses/) |
 | 3         | [Maximum Subarray](maxsubarray.cpp) | Easy      | [🔗 LeetCode](https://leetcode.com/problems/maximum-subarray/) |
 | 4       | [Best Time to Buy and Sell Stock](besttimebuystock.cpp) | Easy | [🔗 LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 5        | [House Robber](houserobber.cpp)     | Medium     | [🔗 LeetCode](https://leetcode.com/problems/house-robber/)     |
