@@ -33,11 +33,11 @@ This is the work of 2+ years of coding, practice, and growth 🚀
 
 | Problem ID | Title                                    | Difficulty | Link                        |
 |------------|-------------------------------------------|------------|-----------------------------|
-| 1          | [Two Sum](./001_two_sum.cpp)              | Easy       | [🔗 LeetCode](https://leetcode.com/problems/two-sum/)         |
-| 2        | [Valid Parentheses](./020_valid_parentheses.cpp) | Easy   | [🔗 LeetCode](https://leetcode.com/problems/valid-parentheses/) |
-| 3         | [Maximum Subarray](./053_max_subarray.cpp) | Easy      | [🔗 LeetCode](https://leetcode.com/problems/maximum-subarray/) |
-| 4       | [Best Time to Buy and Sell Stock](./121_best_time_to_buy_stock.cpp) | Easy | [🔗 LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| 5        | [House Robber](./198_house_robber.cpp)     | Medium     | [🔗 LeetCode](https://leetcode.com/problems/house-robber/)     |
+| 1          | [Two Sum](twosum.cpp)              | Easy       | [🔗 LeetCode](https://leetcode.com/problems/two-sum/)         |
+| 2        | [Valid Parentheses](validparentheses.cpp) | Easy   | [🔗 LeetCode](https://leetcode.com/problems/valid-parentheses/) |
+| 3         | [Maximum Subarray](maxsubarray.cpp) | Easy      | [🔗 LeetCode](https://leetcode.com/problems/maximum-subarray/) |
+| 4       | [Best Time to Buy and Sell Stock](besttimebuystock.cpp) | Easy | [🔗 LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 5        | [House Robber](houserobber.cpp)     | Medium     | [🔗 LeetCode](https://leetcode.com/problems/house-robber/)     |
 
 📝 More problems are being added & updated weekly.
 
